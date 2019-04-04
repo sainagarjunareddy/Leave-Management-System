@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="075789ea4f203300b33a224f9310c75e" sys_domain="global" table="sn_lms_apply_leave" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 10:55:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b5789ea4f203300b33a224f9310c760</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_lms_apply_leave" name="sn_lms_apply_leave" sys_domain="global" view="Default view">075789ea4f203300b33a224f9310c75e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_lms_apply_leave" sys_domain="global" view="Default view">2eb4c96a4f203300b33a224f9310c705</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 10:55:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 10:55:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>575789ea4f203300b33a224f9310c761</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_lms_apply_leave" name="sn_lms_apply_leave" sys_domain="global" view="Default view">075789ea4f203300b33a224f9310c75e</sys_ui_form>
+            <sys_ui_section caption="Leave Details" display_value="Leave Details" name="sn_lms_apply_leave" sys_domain="global" view="Default view">c75749ea4f203300b33a224f9310c796</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 10:55:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 11:13:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e48b49ae4f203300b33a224f9310c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_lms_apply_leave" name="sn_lms_apply_leave" sys_domain="global" view="Default view">075789ea4f203300b33a224f9310c75e</sys_ui_form>
+            <sys_ui_section caption="Day-1" display_value="Day-1" name="sn_lms_apply_leave" sys_domain="global" view="Default view">ac8b09ae4f203300b33a224f9310c715</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 11:13:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 11:13:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>608b49ae4f203300b33a224f9310c755</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_lms_apply_leave" name="sn_lms_apply_leave" sys_domain="global" view="Default view">075789ea4f203300b33a224f9310c75e</sys_ui_form>
+            <sys_ui_section caption="Day-2" display_value="Day-2" name="sn_lms_apply_leave" sys_domain="global" view="Default view">648b49ae4f203300b33a224f9310c74d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 11:13:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 11:13:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>608b49ae4f203300b33a224f9310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_lms_apply_leave" name="sn_lms_apply_leave" sys_domain="global" view="Default view">075789ea4f203300b33a224f9310c75e</sys_ui_form>
+            <sys_ui_section caption="Day-3" display_value="Day-3" name="sn_lms_apply_leave" sys_domain="global" view="Default view">6c8b49ae4f203300b33a224f9310c74d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 11:13:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 11:13:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac8b49ae4f203300b33a224f9310c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_lms_apply_leave" name="sn_lms_apply_leave" sys_domain="global" view="Default view">075789ea4f203300b33a224f9310c75e</sys_ui_form>
+            <sys_ui_section caption="Day-4" display_value="Day-4" name="sn_lms_apply_leave" sys_domain="global" view="Default view">648b49ae4f203300b33a224f9310c74e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 11:13:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 11:13:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a88b49ae4f203300b33a224f9310c76e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_lms_apply_leave" name="sn_lms_apply_leave" sys_domain="global" view="Default view">075789ea4f203300b33a224f9310c75e</sys_ui_form>
+            <sys_ui_section caption="Day-5" display_value="Day-5" name="sn_lms_apply_leave" sys_domain="global" view="Default view">6c8b49ae4f203300b33a224f9310c74e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 11:13:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_lms_apply_leave</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 10:55:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>075789ea4f203300b33a224f9310c75e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_lms_apply_leave</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Leave Management System" source="sn_lms">2490c1ea0f2033007e1179aca8767ea6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management System">2490c1ea0f2033007e1179aca8767ea6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_075789ea4f203300b33a224f9310c75e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 10:55:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

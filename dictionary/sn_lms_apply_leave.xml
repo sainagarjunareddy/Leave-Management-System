@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Apply Leave" max_length="40" name="sn_lms_apply_leave" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="day1-0" label="No of Time Slots to be Adjusted" max_length="40" name="day1timeslot" type="string">
+            <choice>
+                <element inactive_on_update="false" label="0" sequence="0" value="day1-0"/>
+                <element inactive_on_update="false" label="1" sequence="1" value="day1-1"/>
+                <element inactive_on_update="false" label="2" sequence="2" value="day1-2"/>
+                <element inactive_on_update="false" label="3" sequence="3" value="day1-3"/>
+                <element inactive_on_update="false" label="4" sequence="4" value="day1-4"/>
+                <element inactive_on_update="false" label="5" sequence="5" value="day1-5"/>
+                <element inactive_on_update="false" label="6" sequence="6" value="day1-6"/>
+                <element inactive_on_update="false" label="7" sequence="7" value="day1-7"/>
+                <element inactive_on_update="false" label="8" sequence="8" value="day1-8"/>
+                <element inactive_on_update="false" label="9" sequence="9" value="day1-9"/>
+                <element inactive_on_update="false" label="10" sequence="10" value="day1-10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Slot" max_length="40" name="day1timeslot1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="7:20 - 8:10" sequence="0" value="day1timeslot1p1"/>
+                <element inactive_on_update="false" label="8:10 - 9:00" sequence="1" value="day1timeslot1p2"/>
+                <element inactive_on_update="false" label="9:00 - 9:50" sequence="2" value="day1timeslot1p3"/>
+                <element inactive_on_update="false" label="9:50 - 10:40" sequence="3" value="day1timeslot1p4"/>
+                <element inactive_on_update="false" label="11:00 - 11:50" sequence="4" value="day1timeslot1p5"/>
+                <element inactive_on_update="false" label="11:50 - 12:40" sequence="5" value="day1timeslot1p6"/>
+                <element inactive_on_update="false" label="01:30 - 02:20" sequence="6" value="day1timeslot1p7"/>
+                <element inactive_on_update="false" label="02:20 - 03:10" sequence="7" value="day1timeslot1p8"/>
+                <element inactive_on_update="false" label="03:20 - 04:10" sequence="8" value="day1timeslot1p9"/>
+                <element inactive_on_update="false" label="4:10 - 5:00" sequence="9" value="day1timeslot1p10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Slot" max_length="40" name="day1timeslot10" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:20 - 08:10" sequence="0" value="day1timeslot10p1"/>
+                <element inactive_on_update="false" label="08:10 - 09:00" sequence="1" value="day1timeslot10p2"/>
+                <element inactive_on_update="false" label="09:00 - 09:50" sequence="2" value="day1timeslot10p3"/>
+                <element inactive_on_update="false" label="09:50 - 10:40" sequence="3" value="day1timeslot10p4"/>
+                <element inactive_on_update="false" label="11:00 - 11:50" sequence="4" value="day1timeslot10p5"/>
+                <element inactive_on_update="false" label="11:50 - 12:40" sequence="5" value="day1timeslot10p6"/>
+                <element inactive_on_update="false" label="01:30 - 02:20" sequence="6" value="day1timeslot10p7"/>
+                <element inactive_on_update="false" label="02:20 - 03:10" sequence="7" value="day1timeslot10p8"/>
+                <element inactive_on_update="false" label="03:20 - 04:10" sequence="8" value="day1timeslot10p9"/>
+                <element inactive_on_update="false" label="04:10 - 05:00" sequence="9" value="day1timeslot10p10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Slot" max_length="40" name="day1timeslot2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:20 - 08:10" sequence="0" value="day1timeslot2p1"/>
+                <element inactive_on_update="false" label="08:10 - 09:00" sequence="1" value="day1timeslot2p2"/>
+                <element inactive_on_update="false" label="09:00 - 09:50" sequence="2" value="day1timeslot2p3"/>
+                <element inactive_on_update="false" label="09:50 - 10:40" sequence="3" value="day1timeslot2p4"/>
+                <element inactive_on_update="false" label="11:00 - 11:50" sequence="4" value="day1timeslot2p5"/>
+                <element inactive_on_update="false" label="11:50 - 12:40" sequence="5" value="day1timeslot2p6"/>
+                <element inactive_on_update="false" label="01:30 - 02:20" sequence="6" value="day1timeslot2p7"/>
+                <element inactive_on_update="false" label="02:20 - 03:10" sequence="7" value="day1timeslot2p8"/>
+                <element inactive_on_update="false" label="03:20 - 04:10" sequence="8" value="day1timeslot2p9"/>
+                <element inactive_on_update="false" label="04:10 - 05:00" sequence="9" value="day1timeslot2p10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Slot" max_length="40" name="day1timeslot3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:20 - 08:10" sequence="0" value="day1timeslot3p1"/>
+                <element inactive_on_update="false" label="08:10 - 09:00" sequence="1" value="day1timeslot3p2"/>
+                <element inactive_on_update="false" label="09:00 - 09:50" sequence="2" value="day1timeslot3p3"/>
+                <element inactive_on_update="false" label="09:50 - 10:40" sequence="3" value="day1timeslot3p4"/>
+                <element inactive_on_update="false" label="11:00 - 11:50" sequence="4" value="day1timeslot3p5"/>
+                <element inactive_on_update="false" label="11:50 - 12:40" sequence="5" value="day1timeslot3p6"/>
+                <element inactive_on_update="false" label="01:30 - 02:20" sequence="6" value="day1timeslot3p7"/>
+                <element inactive_on_update="false" label="02:20 - 03:10" sequence="7" value="day1timeslot3p8"/>
+                <element inactive_on_update="false" label="03:20 - 04:10" sequence="8" value="day1timeslot3p9"/>
+                <element inactive_on_update="false" label="04:10 - 05:00" sequence="9" value="day1timeslot3p10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Slot" max_length="40" name="day1timeslot4" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:20 - 08:10" sequence="0" value="day1timeslot4p1"/>
+                <element inactive_on_update="false" label="08:10 - 09:00" sequence="1" value="day1timeslot4p2"/>
+                <element inactive_on_update="false" label="09:00 - 09:50" sequence="2" value="day1timeslot4p3"/>
+                <element inactive_on_update="false" label="09:50 - 10:40" sequence="3" value="day1timeslot4p4"/>
+                <element inactive_on_update="false" label="11:00 - 11:50" sequence="4" value="day1timeslot4p5"/>
+                <element inactive_on_update="false" label="11:50 - 12:40" sequence="5" value="day1timeslot4p6"/>
+                <element inactive_on_update="false" label="01:30 - 02:20" sequence="6" value="day1timeslot4p7"/>
+                <element inactive_on_update="false" label="02:20 - 03:10" sequence="7" value="day1timeslot4p8"/>
+                <element inactive_on_update="false" label="03:20 - 04:10" sequence="8" value="day1timeslot4p9"/>
+                <element inactive_on_update="false" label="04:10 - 05:00" sequence="9" value="day1timeslot4p10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Slot" max_length="40" name="day1timeslot5" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:20 - 08:10" sequence="0" value="day1timeslot5p1"/>
+                <element inactive_on_update="false" label="08:10 - 09:00" sequence="1" value="day1timeslot5p2"/>
+                <element inactive_on_update="false" label="09:00 - 09:50" sequence="2" value="day1timeslot5p3"/>
+                <element inactive_on_update="false" label="09:50 - 10:40" sequence="3" value="day1timeslot5p4"/>
+                <element inactive_on_update="false" label="11:00 - 11:50" sequence="4" value="day1timeslot5p5"/>
+                <element inactive_on_update="false" label="11:50 - 12:40" sequence="5" value="day1timeslot5p6"/>
+                <element inactive_on_update="false" label="01:30 - 02:20" sequence="6" value="day1timeslot5p7"/>
+                <element inactive_on_update="false" label="02:20 - 03:10" sequence="7" value="day1timeslot5p8"/>
+                <element inactive_on_update="false" label="03:20 - 04:10" sequence="8" value="day1timeslot5p9"/>
+                <element inactive_on_update="false" label="04:10 - 05:00" sequence="9" value="day1timeslot5p10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Slot" max_length="40" name="day1timeslot6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:20 - 08:10" sequence="0" value="day1timeslot6p1"/>
+                <element inactive_on_update="false" label="08:10 - 09:00" sequence="1" value="day1timeslot6p2"/>
+                <element inactive_on_update="false" label="09:00 - 09:50" sequence="2" value="day1timeslot6p3"/>
+                <element inactive_on_update="false" label="09:50 - 10:40" sequence="3" value="day1timeslot6p4"/>
+                <element inactive_on_update="false" label="11:00 - 11:50" sequence="4" value="day1timeslot6p5"/>
+                <element inactive_on_update="false" label="11:50 - 12:40" sequence="5" value="day1timeslot6p6"/>
+                <element inactive_on_update="false" label="01:30 - 02:20" sequence="6" value="day1timeslot6p7"/>
+                <element inactive_on_update="false" label="02:20 - 03:10" sequence="7" value="day1timeslot6p8"/>
+                <element inactive_on_update="false" label="03:20 - 04:10" sequence="8" value="day1timeslot6p9"/>
+                <element inactive_on_update="false" label="04:10 - 05:00" sequence="9" value="day1timeslot6p10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Slot" max_length="40" name="day1timeslot7" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:20 - 08:10" sequence="0" value="day1timeslot7p1"/>
+                <element inactive_on_update="false" label="08:10 - 09:00" sequence="1" value="day1timeslot7p2"/>
+                <element inactive_on_update="false" label="09:00 - 09:50" sequence="2" value="day1timeslot7p3"/>
+                <element inactive_on_update="false" label="09:50 - 10:40" sequence="3" value="day1timeslot7p4"/>
+                <element inactive_on_update="false" label="11:00 - 11:50" sequence="4" value="day1timeslot7p5"/>
+                <element inactive_on_update="false" label="11:50 - 12:40" sequence="5" value="day1timeslot7p6"/>
+                <element inactive_on_update="false" label="01:30 - 02:20" sequence="6" value="day1timeslot7p7"/>
+                <element inactive_on_update="false" label="02:20 - 03:10" sequence="7" value="day1timeslot7p8"/>
+                <element inactive_on_update="false" label="03:20 - 04:10" sequence="8" value="day1timeslot7p9"/>
+                <element inactive_on_update="false" label="04:10 - 05:00" sequence="9" value="day1timeslot7p10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Slot" max_length="40" name="day1timeslot8" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:20 - 08:10" sequence="0" value="day1timeslot8p1"/>
+                <element inactive_on_update="false" label="08:10 - 09:00" sequence="1" value="day1timeslot8p2"/>
+                <element inactive_on_update="false" label="09:00 - 09:50" sequence="2" value="day1timeslot8p3"/>
+                <element inactive_on_update="false" label="09:50 - 10:40" sequence="3" value="day1timeslot8p4"/>
+                <element inactive_on_update="false" label="11:00 - 11:50" sequence="4" value="day1timeslot8p5"/>
+                <element inactive_on_update="false" label="11:50 - 12:40" sequence="5" value="day1timeslot8p6"/>
+                <element inactive_on_update="false" label="01:30 - 02:20" sequence="6" value="day1timeslot8p7"/>
+                <element inactive_on_update="false" label="02:20 - 03:10" sequence="7" value="day1timeslot8p8"/>
+                <element inactive_on_update="false" label="03:20 - 04:10" sequence="8" value="day1timeslot8p9"/>
+                <element inactive_on_update="false" label="04:10 - 05:00" sequence="9" value="day1timeslot8p10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Time Slot" max_length="40" name="day1timeslot9" type="string">
+            <choice>
+                <element inactive_on_update="false" label="07:20 - 08:10" sequence="0" value="day1timeslot9p1"/>
+                <element inactive_on_update="false" label="08:10 - 09:00" sequence="1" value="day1timeslot9p2"/>
+                <element inactive_on_update="false" label="09:00 - 09:50" sequence="2" value="day1timeslot9p3"/>
+                <element inactive_on_update="false" label="09:50 - 10:40" sequence="3" value="day1timeslot9p4"/>
+                <element inactive_on_update="false" label="11:00 - 11:50" sequence="4" value="day1timeslot9p5"/>
+                <element inactive_on_update="false" label="11:50 - 12:40" sequence="5" value="day1timeslot9p6"/>
+                <element inactive_on_update="false" label="01:30 - 02:20" sequence="6" value="day1timeslot9p7"/>
+                <element inactive_on_update="false" label="02:20 - 03:10" sequence="7" value="day1timeslot9p8"/>
+                <element inactive_on_update="false" label="03:20 - 04:10" sequence="8" value="day1timeslot9p9"/>
+                <element inactive_on_update="false" label="04:10 - 05:00" sequence="9" value="day1timeslot9p10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="No of Time Slots to be Adjusted" max_length="40" name="day2timeslot" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="No of Time Slots to be Adjusted" max_length="40" name="day3timeslot" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="No of Time Slots to be Adjusted" max_length="40" name="day4timeslot" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="No of Time Slots to be Adjusted" max_length="40" name="day5timeslot" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Department" mandatory="true" max_length="40" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CSE" sequence="0" value="cse"/>
+                <element inactive_on_update="false" label="ECE" sequence="1" value="ece"/>
+                <element inactive_on_update="false" label="ECM" sequence="2" value="ecm"/>
+                <element inactive_on_update="false" label="Mechanical" sequence="3" value="mechanical"/>
+                <element inactive_on_update="false" label="Civil" sequence="4" value="civil"/>
+                <element inactive_on_update="false" label="Bio Technology" sequence="5" value="bio technology"/>
+                <element inactive_on_update="false" label="Petroleum" sequence="6" value="petroleum"/>
+                <element inactive_on_update="false" label="BBA" sequence="7" value="bba"/>
+                <element inactive_on_update="false" label="MBA" sequence="8" value="mba"/>
+                <element inactive_on_update="false" label="Transport" sequence="9" value="transport"/>
+                <element inactive_on_update="false" label="Discipline" sequence="10" value="discipline"/>
+            </choice>
+        </element>
+        <element label="Employee ID" max_length="32" name="empid" reference="sn_lms_employee_profile" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="From" mandatory="true" max_length="40" name="fromdate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="No of Leave Days" mandatory="true" max_length="40" name="leavedays" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="To" mandatory="true" max_length="40" name="todate" type="glide_date"/>
+        <index name="index">
+            <element name="empid"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

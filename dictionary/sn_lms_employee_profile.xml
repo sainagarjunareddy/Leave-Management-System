@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user" label="Employee Profile" max_length="40" name="sn_lms_employee_profile" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Designation" max_length="40" name="designation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Department" max_length="40" name="edepartment" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CSE" sequence="0" value="cse"/>
+                <element inactive_on_update="false" label="ECE" sequence="1" value="ece"/>
+                <element inactive_on_update="false" label="ECM" sequence="2" value="ecm"/>
+                <element inactive_on_update="false" label="Bio-Technology" sequence="3" value="biotechnology"/>
+                <element inactive_on_update="false" label="Civil" sequence="4" value="civil"/>
+                <element inactive_on_update="false" label="Mechanical" sequence="5" value="mechanical"/>
+                <element inactive_on_update="false" label="Petroleum" sequence="6" value="petroleum"/>
+                <element inactive_on_update="false" label="BBA" sequence="7" value="bba"/>
+                <element inactive_on_update="false" label="MBA" sequence="8" value="mba"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Employee ID" max_length="40" name="empid" type="string"/>
+    </element>
+</database>

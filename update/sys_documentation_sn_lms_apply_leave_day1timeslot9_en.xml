@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="day1timeslot9" label="Time Slot" language="en" table="sn_lms_apply_leave">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>day1timeslot9</element>
+            <help/>
+            <hint/>
+            <label>Time Slot</label>
+            <language>en</language>
+            <name>sn_lms_apply_leave</name>
+            <plural>Time Slots</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-04 11:47:34</sys_created_on>
+            <sys_id>b453d1e24f603300b33a224f9310c744</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Time Slot</sys_name>
+            <sys_package display_value="Leave Management System" source="sn_lms">2490c1ea0f2033007e1179aca8767ea6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management System">2490c1ea0f2033007e1179aca8767ea6</sys_scope>
+            <sys_update_name>sys_documentation_sn_lms_apply_leave_day1timeslot9_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-04 11:47:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
